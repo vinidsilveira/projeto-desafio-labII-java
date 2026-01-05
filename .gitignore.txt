@@ -1,0 +1,11 @@
+# Eclipse
+bin/
+.settings/
+*.class
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
